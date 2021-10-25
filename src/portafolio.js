@@ -36,14 +36,6 @@ const header = {
       sourceCode: 'https://github.com/kendalqb1/React-GifApp',
       livePreview: 'https://react-gif-app.vercel.app/',
     },
-    {
-      name: 'Proyecto 3',
-      description:
-        'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-      stack: ['SASS', 'TypeScript', 'React'],
-      sourceCode: 'https://github.com',
-      livePreview: 'https://github.com',
-    },
   ]
   
   const skills = [
