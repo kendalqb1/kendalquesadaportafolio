@@ -68,6 +68,10 @@ const header = {
       name: 'NodeJS',  
     },
     {
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg',
+      name: 'Express'
+    },
+    {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg',
       name: 'Bootstrap',
     },
@@ -126,10 +130,6 @@ const header = {
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg',
       name: 'Heroku',
-    },
-    {
-      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg',
-      name: 'Express'
     },
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg',
