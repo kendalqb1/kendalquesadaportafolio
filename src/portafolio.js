@@ -68,7 +68,7 @@ const header = {
       name: 'NodeJS',  
     },
     {
-      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg',
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg',
       name: 'Bootstrap',
     },
     {
@@ -80,12 +80,32 @@ const header = {
       name: 'C++',
     },
     {
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg',
+      name: 'Dart',
+    },
+    {
+      name: 'C#',
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg',
+    },
+    {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg',
       name: 'Flutter',
     },
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg',
       name: 'Linux',
+    },
+    {
+      name: 'Ubuntu',
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg',
+    },
+    {
+      name: 'Android',
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg',
+    },
+    {
+      name: 'iOS',
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg',
     },
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg',
@@ -106,6 +126,10 @@ const header = {
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg',
       name: 'Heroku',
+    },
+    {
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg',
+      name: 'Express'
     },
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg',
