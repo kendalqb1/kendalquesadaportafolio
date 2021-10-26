@@ -4,7 +4,7 @@ import WbSunnyIcon from '@mui/icons-material/WbSunny';
 import Brightness2Icon from '@mui/icons-material/Brightness2';
 import CloseIcon from '@mui/icons-material/Close';
 import MenuIcon from '@mui/icons-material/Menu';
-import { contact, projects, skills } from '../../portafolio'
+import { contact, projects, skillsWithIMG } from '../../portafolio'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -35,7 +35,7 @@ const Navbar = () => {
                     : null
                 }
                 {
-                    skills.length ? (
+                    skillsWithIMG.length ? (
                         <li className='nav__list-item'>
                             <a 
                                 href='#projects' 

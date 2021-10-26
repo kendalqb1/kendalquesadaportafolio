@@ -128,9 +128,9 @@ main {
     border: 0;
   }
   
-  .btn--plain:hover {
+  /* .btn--plain:hover {
     transform: translateY(-4px);
-  }
+  } */
   
   .btn--icon {
     padding: 0;
