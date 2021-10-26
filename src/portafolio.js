@@ -32,6 +32,14 @@ const header = {
       sourceCode: 'https://github.com/kendalqb1/React-GifApp',
       livePreview: 'https://react-gif-app.vercel.app/',
     },
+    {
+      name: 'Peliculas App',
+      description:
+        'Es una aplicacion movil hecha en flutter, usando la API de TheMovieDB para información de peliculas',
+      stack: ['Dart', 'Flutter'],
+      sourceCode: 'https://github.com/kendalqb1/peliculas_app.git',
+      livePreview: 'https://github.com/kendalqb1/peliculas_app.git',
+    },
   ]
   
   const skillsWithIMG = [
