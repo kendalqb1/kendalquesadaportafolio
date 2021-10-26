@@ -8,7 +8,7 @@ const header = {
     role: 'FullStack Developer',
     description:
       'Soy una estudiante de la carrera Ingenieria en Sistemas, en la Universidad Nacional de Costa Rica, soy una persona proactiva, me gusta aprender de nuevas tecnologias de desarrollo Web, a la vez soy una apasionado del desarrollo movil con flutter para plataformas Android y iOS.',
-    resume: 'https://example.com',
+    resume: '/cv.pdf',
     social: {
       linkedin: 'https://www.linkedin.com/in/kendal-quesada/',
       github: 'https://github.com/kendalqb1',
