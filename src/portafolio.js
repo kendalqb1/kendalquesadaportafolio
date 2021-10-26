@@ -72,6 +72,10 @@ const header = {
       name: 'C++',
     },
     {
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg',
+      name: 'Flutter',
+    },
+    {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg',
       name: 'Linux',
     },
