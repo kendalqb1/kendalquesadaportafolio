@@ -92,6 +92,10 @@ const header = {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg',
     },
     {
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg',
+      name: 'DotNet',
+    },
+    {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg',
       name: 'Flutter',
     },
