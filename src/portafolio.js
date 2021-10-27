@@ -7,7 +7,7 @@ const header = {
     name: 'Kendal Quesada',
     role: 'FullStack Developer',
     description:
-      'Soy una estudiante de la carrera Ingenieria en Sistemas, en la Universidad Nacional de Costa Rica, soy una persona proactiva, me gusta aprender de nuevas tecnologias de desarrollo Web, a la vez soy una apasionado del desarrollo movil con flutter para plataformas Android y iOS.',
+      'Soy una estudiante de la carrera Ingeniería en Sistemas, en la Universidad Nacional de Costa Rica, soy una persona proactiva, me gusta aprender de nuevas tecnologias de desarrollo Web, a la vez soy una apasionado del desarrollo movil con flutter para plataformas Android y iOS.',
     resume: '/CVKendalQuesada.pdf',
     social: {
       linkedin: 'https://www.linkedin.com/in/kendal-quesada/',
@@ -27,7 +27,7 @@ const header = {
     {
       name: 'Gif App',
       description:
-        'Aplicacion que utiliza la API de Giphy para la busqueda  y listado de GIFS, con el uso de Hooks',
+        'Aplicación que utiliza la API de Giphy para la busqueda  y listado de GIFS, con el uso de Hooks',
       stack: ['React', 'Bootstrap'],
       sourceCode: 'https://github.com/kendalqb1/React-GifApp',
       livePreview: 'https://react-gif-app.vercel.app/',
@@ -35,10 +35,10 @@ const header = {
     {
       name: 'Peliculas App',
       description:
-        'Es una aplicacion movil hecha en flutter, usando la API de TheMovieDB para información de peliculas',
+        'Es una aplicación movil hecha en flutter, usando la API de TheMovieDB para información de peliculas',
       stack: ['Dart', 'Flutter'],
       sourceCode: 'https://github.com/kendalqb1/peliculas_app.git',
-      livePreview: 'https://github.com/kendalqb1/peliculas_app.git',
+      livePreview: 'https://peliculas-app-flutter.web.app/',
     },
   ]
   
