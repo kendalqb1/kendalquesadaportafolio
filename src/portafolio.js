@@ -33,7 +33,7 @@ const header = {
       livePreview: 'https://react-gif-app.vercel.app/',
     },
     {
-      name: 'Peliculas App',
+      name: 'Peliculas App ',
       description:
         'Es una aplicación movil hecha en flutter, usando la API de TheMovieDB para información de peliculas',
       stack: ['Dart', 'Flutter'],
@@ -129,7 +129,7 @@ const header = {
     },
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg',
-      name: 'MySql',
+      name: 'MySQL',
     },
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg',
