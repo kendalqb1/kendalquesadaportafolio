@@ -40,6 +40,14 @@ const header = {
       sourceCode: 'https://github.com/kendalqb1/peliculas_app.git',
       livePreview: 'https://peliculas-app-flutter.web.app/',
     },
+    {
+      name: 'Cima App',
+      description:
+        'Proyecto para la consulta del clima hecha con la APi de OpenWeatherMap y nos ofrece informacion basica',
+      stack: ['React', 'Hooks', 'Material-UI'],
+      sourceCode: 'https://github.com/kendalqb1/Clima-App',
+      livePreview: 'https://clima-app-beta.vercel.app/',
+    }
   ]
   
   const skillsWithIMG = [
