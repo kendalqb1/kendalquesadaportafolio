@@ -7,7 +7,7 @@ const header = {
     name: 'Kendal Quesada',
     role: 'FullStack Developer',
     description:
-      'Soy una estudiante de la carrera Ingeniería en Sistemas, en la Universidad Nacional de Costa Rica, soy una persona proactiva, me gusta aprender de nuevas tecnologias de desarrollo Web, a la vez soy una apasionado del desarrollo movil con flutter para plataformas Android y iOS.',
+      'Soy una estudiante de la carrera Ingeniería en Sistemas, en la Universidad Nacional de Costa Rica, soy una persona proactiva, me gusta aprender de nuevas tecnologias de desarrollo Web, a la vez soy una apasionado del desarrollo movil con flutter para plataformas Android y iOS. Actualmente trabajo para una empresa retail costarricense donde me dedico al desarrollo y mantenimiento de software con C# y con el modelado, implemetacion en base de datos Oracle PL/SQL.',
     resume: '/CVKendalQuesada.pdf',
     social: {
       linkedin: 'https://www.linkedin.com/in/kendal-quesada/',
@@ -41,7 +41,7 @@ const header = {
       livePreview: 'https://peliculas-app-flutter.web.app/',
     },
     {
-      name: 'Cima App',
+      name: 'Clima App',
       description:
         'Proyecto para la consulta del clima hecha con la APi de OpenWeatherMap y nos ofrece informacion basica',
       stack: ['React', 'Hooks', 'Material-UI'],
@@ -76,9 +76,17 @@ const header = {
       name: 'NodeJS',  
     },
     {
-      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg',
-      name: 'Express'
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg',
+      name: 'Oracle PL/SQL'
     },
+    {
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg',
+      name: 'Docker'
+    },
+    // {
+    //   img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg',
+    //   name: 'Express'
+    // },
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg',
       name: 'Bootstrap',
@@ -86,6 +94,10 @@ const header = {
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg',
       name: 'Java',
+    },
+    {
+      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg',
+      name: 'Kotlin'
     },
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg',
@@ -119,10 +131,10 @@ const header = {
       name: 'Android',
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg',
     },
-    {
-      name: 'iOS',
-      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg',
-    },
+    // {
+    //   name: 'iOS',
+    //   img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg',
+    // },
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg',
       name: 'Python',
@@ -139,10 +151,10 @@ const header = {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg',
       name: 'MySQL',
     },
-    {
-      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg',
-      name: 'Heroku',
-    },
+    // {
+    //   img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg',
+    //   name: 'Heroku',
+    // },
     {
       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg',
       name: 'TailwindCSS',
